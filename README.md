@@ -1,27 +1,5 @@
 # Thuseson Reunion
-Here mom, add stuff to this file
+![image name](https://scontent-lax3-1.xx.fbcdn.net/v/t31.18172-1/18359445_788694734622148_3190185742509679659_o.jpg?stp=dst-jpg_p200x200&_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=H19m2MD_UGoQ7kNvgE5f740&_nc_ht=scontent-lax3-1.xx&oh=00_AYDYm8C6G7doG_PtUsxe3tiK716idypp-eySbQGPHhIWkw&oe=6685E475)
 
-<!-- Comment (doesn't show up) (don't worry about it) -->
-
-<!-- Don't for get the space after the # -->
-# Top header
-## Header 2
-### Header 3
-etc...
-
-*italic*
-
-**bold**
-
-* unordered
-* bullet
-* points
-
-1. ordered
-2. bullet
-3. points
-
-
-[link text](https://www.markdownguide.org/basic-syntax/)
-
-![image name](https://www.facebook.com/photo/?fbid=788694734622148&set=a.104706349687660&__tn__=%3C)
+[Take the survey!](survey.html)
+[Schedule](schedule.html)

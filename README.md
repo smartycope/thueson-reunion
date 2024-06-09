@@ -4,3 +4,5 @@
 [RSVP and Take the survey!](survey.html)
 
 [Schedule](schedule.html)
+
+[Interactive Family Timeline](familyTimeline.html)

@@ -8,6 +8,7 @@
 * If every sibling family (Blair, Dave, Steve, Susan, Amy) could donate $80 to the cost of the reunion that would cover costs of Sam’s land and crafts. Amy’s Venmo is [@Amy-Carter-72](https://venmo.com/u/Amy-Carter-72).
 * Amy can purchase plates and cups and plasticware for all the meals and we can all just pitch in some for that if you’d like. Or if you’d rather just buy your own we can do it that way. Please text Amy with your preference and we will get it worked out.
 * We still don’t have a headcount of all those that are coming. Please fill out [the survey](https://smartycope.github.io/thueson-reunion/survey.html) above even if you aren’t coming. It tells us who is and helps us with our entertainment.
+
 # Schedule
 
 **Dates**: July 4th-July 7th
@@ -62,3 +63,9 @@ Reagan’s Baptism/ Fast & Testimony Meeting
 Lunch:Steve & Deidra’s Family
 
 Clean-up & Leave
+
+
+---
+
+
+If you need graphs made, for a business, a bank loan, for any sort of research, Cope is available for hire.
